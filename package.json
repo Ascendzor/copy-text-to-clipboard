@@ -16,7 +16,8 @@
     "test": "xo"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "dist.js"
   ],
   "keywords": [
     "copy",
